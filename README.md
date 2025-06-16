@@ -5,6 +5,7 @@ A web-based AI image generator that allows users to enter prompts and generate i
 🔧 Built by following a YouTube tutorial by CodingNepal
 
 ✨ Features
+
 🎨 Clean and modern HTML/CSS layout
 
 🖼️ Gallery grid for displaying generated images
@@ -45,6 +46,6 @@ The theme can be toggled between dark and light modes.
 The layout adjusts seamlessly for all screen sizes.
 
 📸 Demo
-🎥 🎥 [Watch the full tutorial and demo on YouTube](https://youtu.be/R3p0e-8XgCY)  
-Courtesy of [CodingNepal](https://www.youtube.com/c/CodingNepal)
+🎥 🎥 [Watch the demo on YouTube](https://youtu.be/R3p0e-8XgCY)  
+Courtesy of [CodingNepal](https://www.youtube.com/watch?v=J5zsvyEfhi4&t=2974s&ab_channel=CodingNepal)
 
