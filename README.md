@@ -28,8 +28,9 @@ A web-based AI image generator that allows users to enter prompts and generate i
 ├── script.js           # JavaScript for API integration and UI behavior
 
 
----
 
+
+## 🎥 Demo
 
 Check out the full demo and tutorial video here:  
 🎥 **[AI Image Generator - Watch on YouTube](https://youtu.be/R3p0e-8XgCY)**  
