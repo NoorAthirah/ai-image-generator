@@ -1,4 +1,5 @@
-AI Image Generator
+# AI Image Generator
+
 A web-based AI image generator that allows users to enter prompts and generate images using the free Hugging Face API. Built with modern UI components and dynamic interactivity, the project also supports theme toggling and responsive layout.
 
 🔧 Built by following a YouTube tutorial by CodingNepal
